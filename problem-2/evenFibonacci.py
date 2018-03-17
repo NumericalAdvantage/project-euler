@@ -9,8 +9,6 @@ list_of_fib_terms = list()
 list_of_fib_terms.append(1)
 list_of_fib_terms.append(2)
 
-print(len(list_of_fib_terms))
-
 sum_of_even_fib_terms = 0
 
 while True:
